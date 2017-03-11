@@ -1,0 +1,70 @@
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\bin\Debug\Tienda Virtual.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda Virtual.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda Virtual.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\bin\Debug\Tienda Virtual.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\bin\Debug\Tienda Virtual.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda Virtual.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda Virtual.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmCatalogo.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmVenta.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmLogin.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmNuevoCliente.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmCondiciones.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmResetearContra.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmDescripcion.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmBienvenida.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmFormularioCompra.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Tienda Virtual\Tienda Virtual\obj\Debug\Tienda_Virtual.frmObtenerNumeroCel.resources
+C:\Users\Edsel\Documents\GitHub\Tienda-virtual\Tienda Virtual\bin\Debug\Tienda Virtual.exe.config
+C:\Users\Edsel\Documents\GitHub\Tienda-virtual\Tienda Virtual\obj\Debug\Tienda Virtual.exe
+C:\Users\Edsel\Documents\GitHub\Tienda-virtual\Tienda Virtual\obj\Debug\Tienda Virtual.pdb
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\bin\Debug\Tienda Virtual.exe.config
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\bin\Debug\Tienda Virtual.exe
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\bin\Debug\Tienda Virtual.pdb
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmBienvenida.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmCondiciones.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmDescripcion.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmLogin.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmCatalogo.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmNuevoCliente.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmObtenerNumeroCel.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmResetearContra.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmVenta.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.Properties.Resources.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda Virtual.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda Virtual.exe
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda Virtual.pdb
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda Virtual.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmFormularioCompra.resources
+C:\Users\lenovo\Documents\Tienda-virtual-master\Tienda-virtual-master\Tienda Virtual\obj\Debug\Tienda_Virtual.frmFactura.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\Tienda Virtual.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda Virtual.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmBienvenida.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmCondiciones.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmDescripcion.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmFormularioCompra.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmLogin.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmCatalogo.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmNuevoCliente.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmObtenerNumeroCel.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmResetearContra.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.frmVenta.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda Virtual.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda Virtual.exe.licenses
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\Tienda Virtual.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\Tienda Virtual.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\itextsharp.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\itextsharp.pdfa.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\itextsharp.xtra.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\Spire.License.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\itextsharp.xml
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda Virtual.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda Virtual.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\Spire.License.xml
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\obj\Debug\Tienda_Virtual.FrmFactura.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\Spire.Pdf.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Tienda\Tienda Virtual\bin\Debug\Spire.Pdf.xml
